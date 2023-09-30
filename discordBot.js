@@ -9,7 +9,7 @@ const client = new Client({
 });
 
 const BOT_TOKEN =
-  "MTE1NjkzNzUyMTQ0NDQzODEyOA.GR6vtl.KaDYqKsobmI6GSO-JU-cvVje22GybC0TRAcOxw";
+  "MTE1NzY2MDMwMTM5MTU4MTIzNQ.GTZOpk.KgzSC78F9U0r-iLf8I4i78vV7ubbXYQx49CQSQ";
 
 client.login(BOT_TOKEN);
 
